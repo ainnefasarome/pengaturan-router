@@ -4,20 +4,22 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-4.2%2B%20sampai%2014-green" alt="Android">
-  <img src="https://img.shields.io/badge/Version-Lembo%20Ade-blue" alt="Version">
   <img src="https://img.shields.io/badge/Platform-Universal-orange" alt="Platform">
   <img src="https://img.shields.io/badge/License-Bebas%20digunakan-lightgrey" alt="License">
-</p>
-
-<p align="center">
-  <a href="https://github.com/ainnefasarome/pengaturan-router/releases/latest">
-    <img src="https://img.shields.io/badge/%E2%AC%87%20Download%20APK%20Lembo%20Ade-success?style=for-the-badge" alt="Download APK">
-  </a>
 </p>
 
 # Pengaturan Router
 
 Aplikasi Android pintar yang otomatis mendeteksi WiFi yang sedang terhubung, lalu membuka halaman admin router langsung di dalam aplikasi - tanpa perlu mengingat IP router atau berpindah ke browser.
+
+## Daftar Isi
+
+- [Fitur](#fitur)
+- [Cara Pakai](#cara-pakai)
+- [Kompatibilitas](#kompatibilitas)
+- [Izin yang Dibutuhkan](#izin-yang-dibutuhkan)
+- [FAQ](#faq)
+- [Download](#download)
 
 ## Fitur
 
@@ -31,7 +33,7 @@ Aplikasi Android pintar yang otomatis mendeteksi WiFi yang sedang terhubung, lal
 
 ## Cara Pakai
 
-1. Install APK dari halaman Releases.
+1. Install APK dari halaman [Releases](https://github.com/ainnefasarome/pengaturan-router/releases).
 2. Pastikan HP terhubung ke WiFi.
 3. Klik ikon Pengaturan Router.
 4. Aplikasi otomatis membuka halaman admin router.
@@ -50,8 +52,6 @@ Aplikasi Android pintar yang otomatis mendeteksi WiFi yang sedang terhubung, lal
 **Mendukung otomatis sebagian besar router:**
 ZTE, TP-Link, Huawei, Xiaomi, Tenda, Indihome, Biznet, MyRepublic, First Media, dan lainnya.
 
-Beberapa router dengan konfigurasi khusus mungkin perlu waktu lebih lama saat pemindaian. Kalau gagal, silakan laporkan dengan screenshot halaman admin router agar bisa ditambahkan di versi berikutnya.
-
 ## Izin yang Dibutuhkan
 
 Aplikasi ini membutuhkan beberapa izin standar Android:
@@ -62,19 +62,10 @@ Aplikasi ini membutuhkan beberapa izin standar Android:
 - **ACCESS_FINE_LOCATION / COARSE_LOCATION** - dibutuhkan Android untuk mengakses info WiFi di beberapa versi.
 - **NEARBY_WIFI_DEVICES** - dibutuhkan Android 13+ untuk akses info WiFi.
 
-**Apakah aman?**
-- Tidak ada data yang dikumpulkan.
-- Tidak ada data yang dikirim ke server mana pun.
-- Semua bekerja secara lokal di HP kamu.
-- Hanya mengakses jaringan lokal (WiFi) untuk membuka halaman admin router.
-
 ## FAQ
 
 **Apakah aplikasi ini butuh root?**
 Tidak. Berjalan sepenuhnya tanpa root.
-
-**Apakah data saya dikirim ke internet?**
-Tidak ada. Aplikasi hanya mengakses jaringan lokal untuk membuka admin router. Tidak ada koneksi ke server luar.
 
 **Apakah bisa dipakai untuk semua router?**
 Ya, aplikasi ini mendukung semua merek router karena mendeteksi IP gateway secara otomatis dari WiFi yang terhubung.
@@ -88,12 +79,8 @@ Bisa. Selama HP masih terhubung ke WiFi (walau tidak ada internet), aplikasi tet
 **Kalau HP tidak konek WiFi, apa yang terjadi?**
 Muncul pesan "WiFi tidak terhubung" sebentar, lalu aplikasi menutup sendiri.
 
-## Kontribusi
+## Download
 
-Kalau aplikasi ini gagal di HP atau router kamu, buka Issue dengan menyertakan:
-- Merek + tipe HP
-- Versi Android
-- Merek router
-- Screenshot halaman admin router
+Silakan kunjungi halaman [Releases](https://github.com/ainnefasarome/pengaturan-router/releases) untuk mengunduh versi terbaru.
 
-Kontribusi untuk mendukung lebih banyak router sangat diterima.
+Pastikan untuk mengunduh hanya dari halaman resmi repositori ini.
