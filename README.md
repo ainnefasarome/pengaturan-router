@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Android-4.2%2B%20sampai%2014-green" alt="Android">
   <img src="https://img.shields.io/badge/Platform-Universal-orange" alt="Platform">
-  <img src="https://img.shields.io/badge/License-Bebas%20digunakan-lightgrey" alt="License">
+  <img src="https://img.shields.io/badge/License-MIT-yellow" alt="License">
 </p>
 
 # Pengaturan Router
@@ -20,6 +20,7 @@ Aplikasi Android pintar yang otomatis mendeteksi WiFi yang sedang terhubung, lal
 - [Izin yang Dibutuhkan](#izin-yang-dibutuhkan)
 - [FAQ](#faq)
 - [Download](#download)
+- [Lisensi](#lisensi)
 
 ## Fitur
 
@@ -84,3 +85,13 @@ Muncul pesan "WiFi tidak terhubung" sebentar, lalu aplikasi menutup sendiri.
 Silakan kunjungi halaman [Releases](https://github.com/ainnefasarome/pengaturan-router/releases) untuk mengunduh versi terbaru.
 
 Pastikan untuk mengunduh hanya dari halaman resmi repositori ini.
+
+---
+
+## Lisensi
+
+Repositori ini dipakai untuk dokumentasi dan distribusi rilis APK. Dirilis di bawah [Lisensi MIT](LICENSE).
+
+---
+
+<p align="center">Dibuat oleh <a href="https://ainnefasarome.github.io/Banghans.dev/">Banghans</a> · Hans Developer</p>
